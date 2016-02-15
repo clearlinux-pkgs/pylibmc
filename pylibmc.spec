@@ -4,7 +4,7 @@
 #
 Name     : pylibmc
 Version  : 1.5.0
-Release  : 17
+Release  : 18
 URL      : https://pypi.python.org/packages/source/p/pylibmc/pylibmc-1.5.0.tar.gz
 Source0  : https://pypi.python.org/packages/source/p/pylibmc/pylibmc-1.5.0.tar.gz
 Summary  : Quick and small memcached client for Python
