@@ -4,7 +4,7 @@
 #
 Name     : pylibmc
 Version  : 1.5.1
-Release  : 20
+Release  : 21
 URL      : https://pypi.python.org/packages/source/p/pylibmc/pylibmc-1.5.1.tar.gz
 Source0  : https://pypi.python.org/packages/source/p/pylibmc/pylibmc-1.5.1.tar.gz
 Summary  : Quick and small memcached client for Python
@@ -18,6 +18,7 @@ BuildRequires : pip
 BuildRequires : python-dev
 BuildRequires : python3-dev
 BuildRequires : setuptools
+BuildRequires : zlib-dev
 
 %description
 `pylibmc` is a Python client for `memcached <http://memcached.org/>`_ written in C.
