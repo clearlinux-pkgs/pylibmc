@@ -4,7 +4,7 @@
 #
 Name     : pylibmc
 Version  : 1.5.2
-Release  : 27
+Release  : 28
 URL      : http://pypi.debian.net/pylibmc/pylibmc-1.5.2.tar.gz
 Source0  : http://pypi.debian.net/pylibmc/pylibmc-1.5.2.tar.gz
 Summary  : Quick and small memcached client for Python
